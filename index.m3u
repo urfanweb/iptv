@@ -1,34 +1,112 @@
-#EXTINF:-1 group-title="INDONESIA",SCTV
+#EXTINF:-1 group-title="IPTV",SCTV
 http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",INDOSIAR
+#EXTINF:-1 group-title="IPTV",INDOSIAR
 http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",TRANSTV
+#EXTINF:-1 group-title="IPTV",TRANSTV
 http://playlist.urfan.web.id/x6bnqe/s/s252/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",TRANS7
+#EXTINF:-1 group-title="IPTV",TRANS7
 http://playlist.urfan.web.id/qwr9ew/s/s101/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",KOMPASTV
+#EXTINF:-1 group-title="IPTV",KOMPASTV
 http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",ANTV
+#EXTINF:-1 group-title="IPTV",ANTV
 http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVONE
+#EXTINF:-1 group-title="IPTV",TVONE
 http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",METROTV
+#EXTINF:-1 group-title="IPTV",METROTV
 http://playlist.urfan.web.id/x6bnqe/h/h12/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI
-http://playlist.urfan.web.id/qwr9ew/s/s11/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",RTV
-http://playlist.urfan.web.id/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",NETTV
+#EXTINF:-1 group-title="IPTV",NETTV
 http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",MYTV
+#EXTINF:-1 group-title="IPTV",RTV
+http://playlist.urfan.web.id/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1 group-title="IPTV",TVRI
+http://playlist.urfan.web.id/qwr9ew/s/s11/01.m3u8
+#EXTINF:-1 group-title="IPTV",DAAITV
+http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
+#EXTINF:-1 group-title="IPTV",MYTV
 http://playlist.urfan.web.id/qwr9ew/s/s46/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",DENSLIFESTYLE
-http://playlist.urfan.web.id/dr9445/h/h28/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",DENSLEARNINGKNOWLEDGE
-http://playlist.urfan.web.id/x6bnqe/s/s36/S4/mnf.m3u8
-#EXTINF:-1 group-title="INDONESIA",DENSSHOWBIZ
-http://playlist.urfan.web.id/x6bnqe/s/s113/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",DENSTVLIVE1
-http://playlist.urfan.web.id/x6bnqe/s/s100/live.m3u8
-#EXTINF:-1 group-title="INDONESIA",DENSTVLIVE2
-http://playlist.urfan.web.id/uq2663/h/h998/live.m3u8
+#EXTINF:-1 group-title="IPTV",ELSHINTATV
+http://playlist.urfan.web.id/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 group-title="IPTV",BERITASATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 group-title="IPTV",TVRISPORT
+http://playlist.urfan.web.id/qwr9ew/s/s107/02.m3u8
+#EXTINF:-1 group-title="IPTV",QURANTV
+http://playlist.urfan.web.id/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1 group-title="IPTV",SUNAHTV
+http://playlist.urfan.web.id/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1 group-title="IPTV",RODJATV
+http://playlist.urfan.web.id/qwr9ew/s/s14/01.m3u8
+#EXTINF:-1 group-title="IPTV",K+
+http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
+#EXTINF:-1 group-title="IPTV",ONE
+http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
+#EXTINF:-1 group-title="IPTV",GEM
+http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
+#EXTINF:-1 group-title="IPTV",TVNASIA
+http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+#EXTINF:-1 group-title="IPTV",TVNMOVIES
+http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+#EXTINF:-1 group-title="IPTV",CELESTIALMOVIES
+http://playlist.urfan.web.id/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 group-title="IPTV",CINEMAWOLRD
+http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
+#EXTINF:-1 group-title="IPTV",AXN
+http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+#EXTINF:-1 group-title="IPTV",KIX
+http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+#EXTINF:-1 group-title="IPTV",HITS
+http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+#EXTINF:-1 group-title="IPTV",BAM
+http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
+#EXTINF:-1 group-title="IPTV",BAE
+http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
+#EXTINF:-1 group-title="IPTV",MYKIDZ
+http://playlist.urfan.web.id/uq2663/h/h98/index.m3u8
+#EXTINF:-1 group-title="IPTV",MYCN
+http://playlist.urfan.web.id/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:-1 group-title="IPTV",MYCE
+http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
+#EXTINF:-1 group-title="IPTV",ZEEBIOSKOP
+http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 group-title="IPTV",THRILL
+http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 group-title="IPTV",ANIMAX
+http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
+#EXTINF:-1 group-title="IPTV",ANIPLUS
+http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="IPTV",EGGNETWORK
+http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
+#EXTINF:-1 group-title="IPTV",FIGHTSPORT
+http://playlist.urfan.web.id/x6bnqe/h/h05/01.m3u8
+#EXTINF:-1 group-title="IPTV",MOTORVISIONTV
+http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
+#EXTINF:-1 group-title="IPTV",GOLF
+http://playlist.urfan.web.id/dr9445/h/h10/01.m3u8
+#EXTINF:-1 group-title="IPTV",BLOOMBERG
+http://playlist.urfan.web.id/dr9445/h/h03/01.m3u8
+#EXTINF:-1 group-title="IPTV",CNA
+http://playlist.urfan.web.id/uq2663/h/h29/01.m3u8
+#EXTINF:-1 group-title="IPTV",NHKWORLD
+http://playlist.urfan.web.id/uq2663/h/h23/01.m3u8
+#EXTINF:-1 group-title="IPTV",ALJAZEERAWORLD
+http://playlist.urfan.web.id/qwr9ew/s/s17/01.m3u8
+#EXTINF:-1 group-title="IPTV",TRTWORLD
+http://playlist.urfan.web.id/uq2663/h/h156/S4/mnf.m3u8
+#EXTINF:-1 group-title="IPTV",WION
+http://playlist.urfan.web.id/uq2663/h/h91/S4/mnf.m3u8
+#EXTINF:-1 group-title="IPTV",UA
+http://playlist.urfan.web.id/uq2663/h/h101/S4/mnf.m3u8
+#EXTINF:-1 group-title="IPTV",ALJAZEERA
+http://playlist.urfan.web.id/qwr9ew/s/s16/01.m3u8
+#EXTINF:-1 group-title="IPTV",CCTV4
+http://playlist.urfan.web.id/qwr9ew/s/s19/01.m3u8
+#EXTINF:-1 group-title="IPTV",FRANCE24
+http://playlist.urfan.web.id/qwr9ew/s/s22/01.m3u8
+#EXTINF:-1 group-title="IPTV",TV5MONDE
+http://playlist.urfan.web.id/dr9445/s/s24/01.m3u8
+#EXTINF:-1 group-title="IPTV",DW
+http://playlist.urfan.web.id/qwr9ew/s/s26/01.m3u8
+#EXTINF:-1 group-title="IPTV",TBN
+http://playlist.urfan.web.id/qwr9ew/s/s39/01.m3u8
+#EXTINF:-1 group-title="IPTV",CGTNDOCUMENTARY
+http://playlist.urfan.web.id/qwr9ew/s/s20/01.m3u8
