@@ -4,9 +4,9 @@ http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 group-title="IPTV",INDOSIAR
 http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 group-title="IPTV",TRANSTV
-http://playlist.urfan.web.id/x6bnqe/s/s252/01.m3u8
+http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
 #EXTINF:-1 group-title="IPTV",TRANS7
-http://playlist.urfan.web.id/qwr9ew/s/s101/01.m3u8
+http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
 #EXTINF:-1 group-title="IPTV",KOMPASTV
 http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 group-title="IPTV",ANTV
@@ -14,7 +14,7 @@ http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 group-title="IPTV",TVONE
 http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 group-title="IPTV",METROTV
-http://playlist.urfan.web.id/x6bnqe/h/h12/01.m3u8
+http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
 #EXTINF:-1 group-title="IPTV",NETTV
 http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 group-title="IPTV",RTV
@@ -57,9 +57,9 @@ http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
 http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
 #EXTINF:-1 group-title="IPTV",HITS
 http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
-#EXTINF:-1 group-title="IPTV",BAM
+#EXTINF:-1 group-title="IPTV",ROCKENTERTAINMENT
 http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
-#EXTINF:-1 group-title="IPTV",BAE
+#EXTINF:-1 group-title="IPTV",ROCKEXTREME
 http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 #EXTINF:-1 group-title="IPTV",MYKIDZ
 http://playlist.urfan.web.id/uq2663/h/h98/index.m3u8
@@ -78,7 +78,7 @@ http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
 #EXTINF:-1 group-title="IPTV",EGGNETWORK
 http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
 #EXTINF:-1 group-title="IPTV",FIGHTSPORT
-http://playlist.urfan.web.id/x6bnqe/h/h05/01.m3u8
+http://playlist.urfan.web.id/dr9445/h/h05/01.m3u8
 #EXTINF:-1 group-title="IPTV",MOTORVISIONTV
 http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
 #EXTINF:-1 group-title="IPTV",GOLF
@@ -109,33 +109,3 @@ http://playlist.urfan.web.id/dr9445/s/s24/01.m3u8
 http://playlist.urfan.web.id/qwr9ew/s/s26/01.m3u8
 #EXTINF:-1 group-title="IPTV",CGTNDOCUMENTARY
 http://playlist.urfan.web.id/qwr9ew/s/s20/01.m3u8
-#EXTINF:-1 group-title="IPTV",MAKKAHLIVE
-http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
-#EXTINF:-1 group-title="IPTV",MADINAHLIVE
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="IPTV",RODJATV
-http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
-#EXTINF:-1 group-title="IPTV",ALIMANTV
-http://tv.aliman.id:1935/aliman/HD/playlist.m3u8
-#EXTINF:-1 group-title="IPTV",WESALTV
-http://119.235.249.58:1935/wesaltv/live/chunklist_w98961653.m3u8
-#EXTINF:-1 group-title="IPTV",SURAUTV
-http://119.235.249.58:1935/surautv/live/chunklist_w180939424.m3u8
-#EXTINF:-1 group-title="IPTV",AHSANTV
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-#EXTINF:-1 group-title="IPTV",NIAGATV
-http://119.235.249.58:1935/niagatv/live/playlist.m3u8
-#EXTINF:-1 group-title="IPTV",ASHIILTV
-http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w394364842.m3u8
-#EXTINF:-1 group-title="IPTV",MUADZTV
-http://wowza60.indostreamserver.com:1935/muadztv/live/playlist.m3u8
-#EXTINF:-1 group-title="IPTV",RADIOKITATV
-https://h1.intechmedia.net/intech/ch16.m3u8
-#EXTINF:-1 group-title="IPTV",RIFQANTV
-http://119.82.232.89:1935/rifqan/bismillah/chunklist_w980315644.m3u8
-#EXTINF:-1 group-title="IPTV",INSANTV
-http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
-#EXTINF:-1 group-title="IPTV",PULDAPITV
-http://103.77.106.227:8080/hls/web.m3u8
-#EXTINF:-1 group-title="IPTV",MGITV
-https://tv.rodja.live/tasik/mgitv/chunklist_w791927921.m3u8
