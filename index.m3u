@@ -125,23 +125,3 @@ http://103.30.1.14:8080/hls/live.m3u8
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="IPTV",TATV
 https://v2.siar.us/tatv/live.sdp/chunks.m3u8
-#EXTINF:-1 group-title="IPTV",JTV
-http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
-#EXTINF:-1 group-title="IPTV",BETV
-http://122.248.43.138:1935/ch3/myStream/playlist.m3u8
-#EXTINF:-1 group-title="IPTV",BTV
-http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
-#EXTINF:-1 group-title="IPTV",JPMTV
-http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
-#EXTINF:-1 group-title="IPTV",PALTV
-http://122.248.43.138:1935/ch7/myStream/playlist.m3u8
-#EXTINF:-1 group-title="IPTV",RCTV
-http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
-#EXTINF:-1 group-title="IPTV",RIAUTV
-http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
-#EXTINF:-1 group-title="IPTV",RBTV
-http://122.248.43.138:1935/ch12/myStream/playlist.m3u8
-#EXTINF:-1 group-title="IPTV",JEKTV
-http://122.248.43.138:1935/ch14/myStream/playlist.m3u8
-#EXTINF:-1 group-title="IPTV",KAWANUATV
-http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
